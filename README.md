@@ -11,4 +11,4 @@ CodeBook.md describes the variables, the data, and any transformations or work t
 
 run_analysis.R contains the code to perform the analyses in the 5 steps. They can be launched in RStudio by just importing the file.
 
-The output of the 5th step is called avg_data.txt, and is uploaded in the course project's form.
+The output of the 5th step is called avg_data.txt, and is uploaded in the course project's form and in this repository.
